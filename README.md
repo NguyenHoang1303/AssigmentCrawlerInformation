@@ -4,6 +4,7 @@
 - Lý Quốc Hưng (100%)
 - Nguyễn Nhật Huy (100%)
 - Trinh Ngọc Phe Can (100%)
+- Nguyễn Văn Bình (100%)
 ##### Link git assigment:
 - Link git bot:
   + https://github.com/NguyenHoang1303/AppCrawler.git
