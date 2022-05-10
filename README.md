@@ -3,7 +3,7 @@
 - Hoàng Sĩ Nguyên (100%)
 - Lý Quốc Hưng (100%)
 - Nguyễn Nhật Huy (100%)
-- Trinh Ngọc Phe Can (100%)
+- Trinh Ngọc Huy (100%)
 - Nguyễn Văn Bình (100%)
 ##### Link git assigment:
 - Link git bot:
